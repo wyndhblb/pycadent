@@ -1,0 +1,9 @@
+cadent.egg-info
+*.pyc
+*.pyo
+dist
+build
+pythonlib
+/pycadent.iml
+/.idea/
+.DS_Store
